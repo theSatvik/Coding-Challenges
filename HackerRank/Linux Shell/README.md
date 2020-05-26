@@ -115,7 +115,7 @@
 [Tail of a Text File #1]: https://www.hackerrank.com/challenges/text-processing-tail-1/problem
 
 [E0021.2]: Easy/E0021.2.sh
-[Tail of a Text File #1]: https://www.hackerrank.com/challenges/text-processing-tail-2/problem
+[Tail of a Text File #1]: https://www.hackerrank.com/challenges/text-processing-tail-2/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 [E0022]: Easy/E0022.sh
 ['Tr' Command #1]: https://www.hackerrank.com/challenges/text-processing-tr-1/problem
