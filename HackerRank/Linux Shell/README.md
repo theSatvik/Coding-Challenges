@@ -11,11 +11,6 @@
 |[E0005]|[The World of Numbers]|
 |[E0006]|[Getting started with conditionals]|
 |[E0007]|[Comparing Numbers]|
-|[E0039]|[Display an element of an array]|
-|[E0040]|[Count the number of elements in an Array]|
-|[E0041]|['Grep' - A]|
-|[E0042]|['Grep' - B]|
-|[E0043]|['Sed' command #3]|
 |[E0008]|[More on Conditionals]|
 |[E0009]|[Cut #1]|
 |[E0010]|[Cut #2]|
@@ -47,6 +42,11 @@
 |[E0036]|[Read in an Array]|
 |[E0037]|[Slice an Array]|
 |[E0038]|[Concatenate an array with itself]|
+|[E0039]|[Display an element of an array]|
+|[E0040]|[Count the number of elements in an Array]|
+|[E0041]|['Grep' - A]|
+|[E0042]|['Grep' - B]|
+|[E0043]|['Sed' command #3]|
 
 [//]: # (Easy)
 
