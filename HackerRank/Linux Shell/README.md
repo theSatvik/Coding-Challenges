@@ -25,6 +25,7 @@
 |[E0019]|[Head of a Text File #2]|
 |[E0020]|[Middle of a Text File]|
 |[E0021]|[Tail of a Text File #1]|
+|[E0021.2]|[Tail of a Text File #2]|
 |[E0022]|['Tr' Command #1]|
 |[E0023]|['Tr' Command #2]|
 |[E0024]|['Tr' Command #3]|
@@ -112,6 +113,9 @@
 
 [E0021]: Easy/E0021.sh
 [Tail of a Text File #1]: https://www.hackerrank.com/challenges/text-processing-tail-1/problem
+
+[E0021.2]: Easy/E0021.2.sh
+[Tail of a Text File #1]: https://www.hackerrank.com/challenges/text-processing-tail-2/problem
 
 [E0022]: Easy/E0022.sh
 ['Tr' Command #1]: https://www.hackerrank.com/challenges/text-processing-tr-1/problem
