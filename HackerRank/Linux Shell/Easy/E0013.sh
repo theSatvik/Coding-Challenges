@@ -1,4 +1,4 @@
-while read line 
+while read line ;
 do
-echo $line | cut -d' ' -f3 file.txt
+echo $line | cut -d' ' -f-4
 done
