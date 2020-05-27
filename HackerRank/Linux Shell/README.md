@@ -194,5 +194,5 @@
 
 [//]: # (Medium)
 
-[M001]: Medium/M0001.sh
+[M001]: Medium/M001.sh
 [Arithmetic Operations]: https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem
