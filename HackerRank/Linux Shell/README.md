@@ -54,7 +54,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
-|[E0001]|[Arithmetic Operations]|
+|[M001]|[Arithmetic Operations]|
 
 
 [//]: # (Easy)
@@ -194,5 +194,5 @@
 
 [//]: # (Medium)
 
-[E0001]: Medium/E0001.sh
+[M001]: Medium/M0001.sh
 [Arithmetic Operations]: https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem
