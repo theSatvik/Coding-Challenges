@@ -194,5 +194,5 @@
 
 [//]: # (Medium)
 
-[E0001]: 
+[E0001]: Medium/E0001.sh
 [Arithmetic Operations]: https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem
