@@ -49,6 +49,14 @@
 |[E0042]|['Grep' - B]|
 |[E0043]|['Sed' command #3]|
 
+
+### Medium
+
+|Problem Solution|Problem Statement|
+|:--------------:|-----------------|
+|[E0001]|[Arithmetic Operations]|
+
+
 [//]: # (Easy)
 
 [E0001]: Easy/E0001.sh
@@ -182,3 +190,9 @@
 
 [E0043]: Easy/E0043.sh
 ['Sed' command #3]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem
+
+
+[//]: # (Medium)
+
+[E0001]: Medium/E0001.sh
+[Arithmetic Operations]: https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem
