@@ -26,4 +26,4 @@
 [Functions in C]: https://www.hackerrank.com/challenges/functions-in-c/problem
 
 [E0005]: Easy/E0005.cpp
-[Playing With Characters]: https://www.hackerrank.com/challenges/pointer-in-c/problem
+[Pointers in C]: https://www.hackerrank.com/challenges/pointer-in-c/problem
