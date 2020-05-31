@@ -10,4 +10,4 @@
 [//]: # (Easy)
 
 [E0001]: Easy/E0001.cpp
-[Say "Hello, World!" With C++]: https://www.hackerrank.com/challenges/hello-world-c/problem
+[Say "Hello, World!" With C`]: https://www.hackerrank.com/challenges/hello-world-c/problem
