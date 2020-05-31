@@ -9,6 +9,8 @@
 |[E0003]|[Sum and Difference of Two Numbers]|
 |[E0004]|[Functions in C]|
 |[E0005]|[Pointers in C]|
+|[E0006]|[Conditional Statements in C]|
+|[E0007]|[For Loop in C]|
 
 
 [//]: # (Easy)
@@ -27,3 +29,9 @@
 
 [E0005]: Easy/E0005.cpp
 [Pointers in C]: https://www.hackerrank.com/challenges/pointer-in-c/problem
+
+[E0006]: Easy/E0006.cpp
+[Conditional Statements in C]: https://www.hackerrank.com/challenges/conditional-statements-in-c/problem
+
+[E0007]: Easy/E0007.cpp
+[For Loop in C]: https://www.hackerrank.com/challenges/for-loop-in-c/problem
