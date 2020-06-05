@@ -5,7 +5,7 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 ## Solutions
 
 | Question No | Problem Statement	| Problem Solution |															|
-|:----:|------------|------------|
+|:----:|:------------:|:------------:|
 | [4A] | [Watermelon]	| [E001.cpp] |
 
 
