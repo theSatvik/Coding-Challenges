@@ -1,5 +1,6 @@
 # CodeForce Problems
 Solutions to some of the questions on the CodeForces [website](https://codeforces.com/ "CodeForces").
+<p align="center"><img src="https://camo.githubusercontent.com/c9f7470b1fedaf3e11008d600936cbd9db1f61d4/68747470733a2f2f69742d6564752e636f6d2f73697465732f64656661756c742f66696c65732f636f6465666f726365736c6f676f2e706e67"></p>
 
 
 ## Solutions
