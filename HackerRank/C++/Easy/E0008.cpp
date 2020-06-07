@@ -7,7 +7,7 @@ using namespace std;
 
 
 int main() {
-    int r[100],a;
+    int r[1000],a;
     cin>>a;
     for (int i=0;i<a;++i)
     cin>>r[i];
