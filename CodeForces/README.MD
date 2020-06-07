@@ -8,10 +8,15 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 | Question No | Problem Statement	| Problem Solution |	
 |:------------:|--------------------|:------------:|
 | 4A          | [Watermelon]    	| [E001.cpp] |
-
+| 1A         | [Theatre Square]    	| [E002.cpp] |
 
 
 [//]: # (Solutions)
 
 [E001.cpp]: Solutions/E001.cpp
 [Watermelon]: https://codeforces.com/problemset/problem/4/A
+
+[E002.cpp]: Solutions/E002.cpp
+[Theatre Square]: https://codeforces.com/problemset/problem/1/A
+
+
