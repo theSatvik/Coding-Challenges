@@ -21,6 +21,6 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 [Theatre Square]: https://codeforces.com/problemset/problem/1/A
 
 [E003.cpp]: Solutions/E003.cpp
-[Theatre Square]: https://codeforces.com/problemset/problem/71/A
+[Way too Long words]: https://codeforces.com/problemset/problem/71/A
 
 
