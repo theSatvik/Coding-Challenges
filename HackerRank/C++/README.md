@@ -13,6 +13,7 @@
 |[E0007]|[Pointer]|
 |[E0008]|[Arrays Introduction]|
 |[E0009]|[Strings]|
+|[E0010]|[FizzBuzz]|
 
 [//]: # (Easy)
 
@@ -42,3 +43,6 @@
 
 [E0009]: Easy/E0009.cpp
 [Strings]: https://www.hackerrank.com/challenges/c-tutorial-strings/problem
+
+[E0010]: Easy/E0010.cpp
+[FizzBuzz]: https://www.hackerrank.com/challenges/fizzbuzz/problem
