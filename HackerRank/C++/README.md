@@ -12,6 +12,7 @@
 |[E0006]|[Functions]|
 |[E0007]|[Pointer]|
 |[E0008]|[Arrays Introduction]|
+|[E0009]|[Strings]|
 
 [//]: # (Easy)
 
@@ -39,4 +40,5 @@
 [E0008]: Easy/E0008.cpp
 [Arrays Introduction]: https://www.hackerrank.com/challenges/arrays-introduction/problem
 
-
+[E0009]: Easy/E0009.cpp
+[Strings]: https://www.hackerrank.com/challenges/c-tutorial-strings/problem
