@@ -10,6 +10,7 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 | 4A          | [Watermelon]    	| [E001.cpp] |
 | 1A         | [Theatre Square]    	| [E002.cpp] |
 | 71A         | [Way too Long words]    	| [E003.cpp] |
+| 118A         | [A. String Task]    	| [E004.cpp] |
 
 
 [//]: # (Solutions)
@@ -23,4 +24,6 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 [E003.cpp]: Solutions/E003.cpp
 [Way too Long words]: https://codeforces.com/problemset/problem/71/A
 
+[E004.cpp]: Solutions/E004.cpp
+[A. String Task]: https://codeforces.com/problemset/problem/118/A
 
