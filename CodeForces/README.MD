@@ -9,6 +9,7 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 |:------------:|--------------------|:------------:|
 | 4A          | [Watermelon]    	| [E001.cpp] |
 | 1A         | [Theatre Square]    	| [E002.cpp] |
+| 71A         | [Way too Long words]    	| [E003.cpp] |
 
 
 [//]: # (Solutions)
@@ -18,5 +19,8 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 
 [E002.cpp]: Solutions/E002.cpp
 [Theatre Square]: https://codeforces.com/problemset/problem/1/A
+
+[E003.cpp]: Solutions/E003.cpp
+[Theatre Square]: https://codeforces.com/problemset/problem/71/A
 
 
