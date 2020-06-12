@@ -27,7 +27,7 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 [Way too Long words]: https://codeforces.com/problemset/problem/71/A
 
 [E004.cpp]: Solutions/E004.cpp
-[A. String Task]: https://codeforces.com/problemset/problem/118/A
+[ String Task]: https://codeforces.com/problemset/problem/118/A
 
 
 [E005.cpp]: Solutions/E005.cpp
