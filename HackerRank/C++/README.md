@@ -18,6 +18,7 @@
 |[E0012]|[Structs]|
 |[E0013]|[Class]|
 |[E0014]|[Classes and Objects]|
+|[E0015]|[Rectangle Area]|
 
 
 [//]: # (Easy)
@@ -62,5 +63,10 @@
 [E0013]: Easy/E0013.cpp
 [Class]: https://www.hackerrank.com/challenges/c-tutorial-class/problem
 
-[E0014]: Easy/E0012.cpp
+[E0014]: Easy/E0014.cpp
 [Classes and Objects]: https://www.hackerrank.com/challenges/classes-objects/problem
+
+[E0015]: Easy/E0015.cpp
+[Rectangle Area]: https://www.hackerrank.com/challenges/rectangle-area/problem
+
+
