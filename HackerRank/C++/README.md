@@ -14,6 +14,10 @@
 |[E0008]|[Arrays Introduction]|
 |[E0009]|[Strings]|
 |[E0010]|[FizzBuzz]|
+|[E0011]|[StringStream]|
+|[E0012]|[Structs]|
+
+
 
 [//]: # (Easy)
 
@@ -46,3 +50,11 @@
 
 [E0010]: Easy/E0010.cpp
 [FizzBuzz]: https://www.hackerrank.com/challenges/fizzbuzz/problem
+
+
+[E0011]: Easy/E0011.cpp
+[FizzBuzz]: https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
+
+[E0012]: Easy/E0012.cpp
+[Structs]: https://www.hackerrank.com/challenges/c-tutorial-struct/problem
+
