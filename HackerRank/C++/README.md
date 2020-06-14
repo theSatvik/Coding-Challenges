@@ -17,6 +17,7 @@
 |[E0011]|[StringStream]|
 |[E0012]|[Structs]|
 |[E0013]|[Class]|
+|[E0014]|[Classes and Objects]|
 
 
 [//]: # (Easy)
@@ -61,3 +62,5 @@
 [E0013]: Easy/E0013.cpp
 [Class]: https://www.hackerrank.com/challenges/c-tutorial-class/problem
 
+[E0014]: Easy/E0012.cpp
+[Classes and Objects]: https://www.hackerrank.com/challenges/classes-objects/problem
