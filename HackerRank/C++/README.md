@@ -53,7 +53,7 @@
 
 
 [E0011]: Easy/E0011.cpp
-[FizzBuzz]: https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
+[StringStream]: https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
 
 [E0012]: Easy/E0012.cpp
 [Structs]: https://www.hackerrank.com/challenges/c-tutorial-struct/problem
