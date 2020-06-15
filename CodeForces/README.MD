@@ -13,6 +13,7 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 | 118A         | [ String Task]    	| [E004.cpp] |
 | 231A         | [ Team]    	| [E005.cpp] |
 | 158A         | [Next Round]    	| [E006.cpp] |
+| 112A         | [Petya and Strings]    	| [E007.cpp] |
 
 
 [//]: # (Solutions)
@@ -35,6 +36,10 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 
 [E006.cpp]: Solutions/E006.cpp
 [Next Round]: https://codeforces.com/problemset/problem/158/A
+
+[E007.cpp]: Solutions/E007.cpp
+[Next Round]: https://codeforces.com/problemset/problem/112/A
+
 
 
 
