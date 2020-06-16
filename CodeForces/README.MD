@@ -15,6 +15,8 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 | 158A         | [Next Round]    	| [E006.cpp] |
 | 112A         | [Petya and Strings]    	| [E007.cpp] |
 | 1367A         | [Short Substrings]    	| [E008.cpp] |
+| 263A         | [Beautiful Matrix]    	| [E009.cpp] |
+
 
 
 [//]: # (Solutions)
@@ -43,6 +45,9 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 
 [E008.cpp]: Solutions/E008.cpp
 [Short Substrings]: https://codeforces.com/problemset/problem/1367/A
+
+[E009.cpp]: Solutions/E009.cpp
+[Beautiful Matrix]: https://codeforces.com/problemset/problem/263/A
 
 
 
