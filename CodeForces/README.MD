@@ -14,6 +14,7 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 | 231A         | [ Team]    	| [E005.cpp] |
 | 158A         | [Next Round]    	| [E006.cpp] |
 | 112A         | [Petya and Strings]    	| [E007.cpp] |
+| 1367A         | [Short Substrings]    	| [E008.cpp] |
 
 
 [//]: # (Solutions)
@@ -38,7 +39,13 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 [Next Round]: https://codeforces.com/problemset/problem/158/A
 
 [E007.cpp]: Solutions/E007.cpp
-[Next Round]: https://codeforces.com/problemset/problem/112/A
+[Petya and Strings]: https://codeforces.com/problemset/problem/112/A
+
+[E008.cpp]: Solutions/E008.cpp
+[Short Substrings]: https://codeforces.com/problemset/problem/1367/A
+
+
+
 
 
 
