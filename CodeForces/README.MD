@@ -16,6 +16,12 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 | 112A         | [Petya and Strings]    	| [E007.cpp] |
 | 1367A         | [Short Substrings]    	| [E008.cpp] |
 | 263A         | [Beautiful Matrix]    	| [E009.cpp] |
+| A         | []    	| [E010.cpp] |
+| A         | []    	| [E011.cpp] |
+| A         | []    	| [E012.cpp] |
+| A         | []    	| [E013.cpp] |
+| A         | []    	| [E014.cpp] |
+| A         | []    	| [E015.cpp] |
 
 
 
@@ -48,6 +54,21 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 
 [E009.cpp]: Solutions/E009.cpp
 [Beautiful Matrix]: https://codeforces.com/problemset/problem/263/A
+
+[E0010.cpp]: Solutions/E010.cpp
+[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
+
+[E011.cpp]: Solutions/E011.cpp
+[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
+
+[E012.cpp]: Solutions/E012.cpp
+[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
+
+[E013.cpp]: Solutions/E013.cpp
+[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
+
+[E014.cpp]: Solutions/E014.cpp
+[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
 
 
 
