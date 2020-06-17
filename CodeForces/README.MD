@@ -16,8 +16,8 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 | 112A         | [Petya and Strings]    	| [E007.cpp] |
 | 1367A         | [Short Substrings]    	| [E008.cpp] |
 | 263A         | [Beautiful Matrix]    	| [E009.cpp] |
-| A         | []    	| [E010.cpp] |
-| A         | []    	| [E011.cpp] |
+| 339A         | [Helpful Maths]    	| [E010.cpp] |
+| 281A         | [Word Capitalization]    	| [E011.cpp] |
 | A         | []    	| [E012.cpp] |
 | A         | []    	| [E013.cpp] |
 | A         | []    	| [E014.cpp] |
@@ -39,7 +39,6 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 [E004.cpp]: Solutions/E004.cpp
 [ String Task]: https://codeforces.com/problemset/problem/118/A
 
-
 [E005.cpp]: Solutions/E005.cpp
 [Team]: https://codeforces.com/problemset/problem/231/A
 
@@ -56,19 +55,19 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 [Beautiful Matrix]: https://codeforces.com/problemset/problem/263/A
 
 [E0010.cpp]: Solutions/E010.cpp
-[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
+[Helpful Maths]: https://codeforces.com/problemset/problem/339/A
 
 [E011.cpp]: Solutions/E011.cpp
-[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
+[Word Capitalization]: https://codeforces.com/problemset/problem/281/A
 
 [E012.cpp]: Solutions/E012.cpp
-[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
+[]: https://codeforces.com/problemset/problem//A
 
 [E013.cpp]: Solutions/E013.cpp
-[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
+[]: https://codeforces.com/problemset/problem//A
 
 [E014.cpp]: Solutions/E014.cpp
-[Beautiful Matrix]: https://codeforces.com/problemset/problem//A
+[]: https://codeforces.com/problemset/problem//A
 
 
 
