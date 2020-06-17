@@ -54,7 +54,7 @@ Solutions to some of the questions on the CodeForces [website](https://codeforce
 [E009.cpp]: Solutions/E009.cpp
 [Beautiful Matrix]: https://codeforces.com/problemset/problem/263/A
 
-[E0010.cpp]: Solutions/E010.cpp
+[E010.cpp]: Solutions/E010.cpp
 [Helpful Maths]: https://codeforces.com/problemset/problem/339/A
 
 [E011.cpp]: Solutions/E011.cpp
