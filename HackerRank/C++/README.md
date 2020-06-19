@@ -19,6 +19,7 @@
 |[E0013]|[Class]|
 |[E0014]|[Classes and Objects]|
 |[E0015]|[Rectangle Area]|
+|[E0016]|[Overload Operators]|
 
 
 [//]: # (Easy)
@@ -68,5 +69,8 @@
 
 [E0015]: Easy/E0015.cpp
 [Rectangle Area]: https://www.hackerrank.com/challenges/rectangle-area/problem
+
+[E0016]: Easy/E0016.cpp
+[Overload Operators]: https://www.hackerrank.com/challenges/overload-operators/problem
 
 
