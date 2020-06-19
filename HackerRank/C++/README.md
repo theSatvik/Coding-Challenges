@@ -20,6 +20,9 @@
 |[E0014]|[Classes and Objects]|
 |[E0015]|[Rectangle Area]|
 |[E0016]|[Overload Operators]|
+|[E0017]|[Inheritance Introduction]|
+|[E0018]|[Multi Level Inheritance]|
+|[E0019]|[]|
 
 
 [//]: # (Easy)
@@ -72,5 +75,15 @@
 
 [E0016]: Easy/E0016.cpp
 [Overload Operators]: https://www.hackerrank.com/challenges/overload-operators/problem
+
+[E0017]: Easy/E0017.cpp
+[Inheritance Introduction]: https://www.hackerrank.com/challenges/inheritance-introduction/problem
+
+[E0018]: Easy/E0018.cpp
+[Multi Level Inheritance]: https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
+
+[E0019]: Easy/E0019.cpp
+[]: 
+
 
 
