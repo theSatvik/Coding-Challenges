@@ -22,7 +22,7 @@
 |[E0016]|[Overload Operators]|
 |[E0017]|[Inheritance Introduction]|
 |[E0018]|[Multi Level Inheritance]|
-|[E0019]|[]|
+|[E0019]|[Inherited Code]|
 
 
 [//]: # (Easy)
@@ -83,7 +83,7 @@
 [Multi Level Inheritance]: https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
 
 [E0019]: Easy/E0019.cpp
-[]: 
+[Inherited Code]:  https://www.hackerrank.com/challenges/inherited-code/problem
 
 
 
