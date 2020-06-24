@@ -7,19 +7,16 @@ int factorial(int n)
         if (n<=1)
         return 1;
         else
-        result = n * (n-1);
+        result = n *factorial(n-1);
         return result;
 }
 
 int main()
 {
-    ofstream fout(getenv("OUTPUT_PATH"));
-    int n;
+    long long  n;
     cin >> n;
-    cin.ignore(numeric_limits<streamsize>::max(), '\n');
-    int result = factorial(n);
-    fout << result << "\n";
-    fout.close();
-
+    long long result = factorial(n);
+    cout<< result << "\n";
+   
     return 0;
 }
