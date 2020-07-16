@@ -7,7 +7,7 @@ Solutions to some of the questions on the SPOJ [website](https://www.spoj.com// 
 
 | Problem Statement	| Problem Solution |	
 |--------------------|:------------:|
-| [Watermelon]    	| [E001.cpp] 
+| [Life, the Universe, and Everything]    	| [S001.cpp] 
 
 
 [//]: # (Solutions)
