@@ -8,3 +8,7 @@ Solutions to some of the coding problems from popular websites. Feel free to pro
 
 *   [CodeForces](CodeForces/ "CodeForces")
 <p align="center"><img src="https://camo.githubusercontent.com/c9f7470b1fedaf3e11008d600936cbd9db1f61d4/68747470733a2f2f69742d6564752e636f6d2f73697465732f64656661756c742f66696c65732f636f6465666f726365736c6f676f2e706e67"></p>
+
+*   [SPOJ](SPOJ/ "SPOJ")
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spoj.com%2F&psig=AOvVaw3RcRyUubuglqxH17lh6nvC&ust=1594998670481000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCNo6CH0uoCFQAAAAAdAAAAABAD"></p>
+
