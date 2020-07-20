@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Coding Problems
 
 Solutions to some of the coding problems from popular websites. Feel free to provide some insights for better solution !
